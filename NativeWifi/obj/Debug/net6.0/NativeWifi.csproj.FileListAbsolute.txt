@@ -1,0 +1,12 @@
+D:\Project\NativeWifi\NativeWifi\bin\Debug\net6.0\NativeWifi.deps.json
+D:\Project\NativeWifi\NativeWifi\bin\Debug\net6.0\NativeWifi.dll
+D:\Project\NativeWifi\NativeWifi\bin\Debug\net6.0\NativeWifi.pdb
+D:\Project\NativeWifi\NativeWifi\obj\Debug\net6.0\NativeWifi.csproj.AssemblyReference.cache
+D:\Project\NativeWifi\NativeWifi\obj\Debug\net6.0\NativeWifi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NativeWifi\NativeWifi\obj\Debug\net6.0\NativeWifi.AssemblyInfoInputs.cache
+D:\Project\NativeWifi\NativeWifi\obj\Debug\net6.0\NativeWifi.AssemblyInfo.cs
+D:\Project\NativeWifi\NativeWifi\obj\Debug\net6.0\NativeWifi.csproj.CoreCompileInputs.cache
+D:\Project\NativeWifi\NativeWifi\obj\Debug\net6.0\NativeWifi.dll
+D:\Project\NativeWifi\NativeWifi\obj\Debug\net6.0\refint\NativeWifi.dll
+D:\Project\NativeWifi\NativeWifi\obj\Debug\net6.0\NativeWifi.pdb
+D:\Project\NativeWifi\NativeWifi\obj\Debug\net6.0\ref\NativeWifi.dll
